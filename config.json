@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "uploaderderify",
+        "uuid": 4062352,
+        "checksum": "z8wwhe"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": false,
+        "mode": "debug"
+    }
+}
